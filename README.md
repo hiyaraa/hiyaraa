@@ -1,4 +1,4 @@
-- 👋 Hewo, I’m @hiyaraa ~
+- 👋 Hello, I’m @hiyaraa ~
 - 🌱 Newbie programmer! 
 
 <!---
